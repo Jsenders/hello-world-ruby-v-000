@@ -3,3 +3,4 @@ File: 'hello_world.rb'
 puts "Hello World!"
 ```
 
+ruby hellow_world.rb
